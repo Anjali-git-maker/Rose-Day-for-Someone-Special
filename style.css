@@ -10,6 +10,14 @@
   cursor: pointer;
 }
 
+body {
+  background:
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url("Screenshot\ 2026-02-07\ at\ 2.48.21\ PM.png");
+  background-size: cover;
+  background-position: center;
+}
+
 #secretBtn:hover {
   background: #a4133c;
 }
